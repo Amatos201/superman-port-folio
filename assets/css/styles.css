@@ -90,7 +90,7 @@ section {
   
 /* Start of Hero Section Styling */
 .hero {
-    background-image: url('../images/alvaro-pinot-czDvRp5V2b0-unsplash.jpg');
+    background-image: url('../images/leone-venter-VieM9BdZKFo-unsplash.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;    
@@ -164,7 +164,7 @@ section {
     border-left: #fce138 solid 3px;
 }
 
-/* Photo of Jaspreet */
+/* Photo of angel */
 .photo {
     width: 10%;
     height: auto;
@@ -217,8 +217,8 @@ section {
 }
 
 /* Main Project Image Styling */
-.surf-report {
-    background-image: url("../images/letseatadeal.png");
+.project-one {
+    background-image: url("../images/movie-madness\ proj-1.png");
     background-size: cover;
     width: 100%;
     height: 600px;
@@ -228,13 +228,13 @@ section {
 }
 
 /* Main Project Hover Styling */
-.surf-report:hover {
+project-one:hover {
     opacity: 75%;
 }
 
-/* LED Wall Image Styling */
-.led-wall {
-    background-image: url(../images/music-visualizer-version-one.jpg);
+/* proj 2 Image Styling */
+.project-two {
+    background-image: url(../images/password-gen.png);
     background-size: cover;
     width: 47.5%;
     height: 300px;
@@ -244,14 +244,14 @@ section {
     position: relative;
 }
 
-/* LED Wall Hover Styling */
-.led-wall:hover {
+/* proj 2 Hover Styling */
+.project-two:hover {
     opacity: 75%;
 }
 
-/* Calculator Image Styling */
-.calculator {
-    background-image: url(../images/coworkers-app.png);
+/* proj 3 Image Styling */
+.project-three {
+    background-image: url(../images/code-break\ proj-2.jpeg);
     background-size: cover;
     width: 47.5%;
     height: 300px;
@@ -261,14 +261,14 @@ section {
     position: relative; 
 }
 
-/* Calculator Hover Styling */
-.calculator:hover {
+/* proj 3 Hover Styling */
+.project-three:hover {
     opacity: 75%;
 }
 
-/* Pastel Puzzle Image Styling */
-.pastel-puzzles {
-    background-image: url(../images/peter-f-XURJBJi_wDE-unsplash.jpg);
+/* proj 4 Image Styling */
+.project-four {
+    background-image: url(../images/travel-mate\ proj\ 3.png);
     background-size: cover;
     width: 47.5%;
     height: 300px;
@@ -278,14 +278,14 @@ section {
     position: relative; 
 }
 
-/* Pastel Puzzle Hover Styling */
-.pastel-puzzles:hover {
+/* proj 4 Hover Styling */
+.project-four:hover {
     opacity: 75%;
 }
 
 /* Run Buddy Image Styling */
-.run-buddy {
-    background-image: url(../images/Screen\ Shot\ 2021-05-02\ at\ 5.19.30\ AM.png);
+.project-five {
+    background-image: url(../images/run-buddy.png);
     background-size: cover;
     width: 47.5%;
     height: 300px;
@@ -296,7 +296,7 @@ section {
 }
 
 /* Run Buddy Hover Styling */
-.run-buddy:hover {
+.project-five:hover {
     opacity: 75%;
 }
 /* End of Main Sections Content Styling */
